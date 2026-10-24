@@ -7,7 +7,7 @@ Save automatically the content in Textarea.
 ## install
 
 * Firefox Version: [AMO/textarea-cache](https://addons.mozilla.org/firefox/addon/textarea-cache)
-* Chrome Version: [Chrome Web Store](https://chrome.google.com/webstore/detail/textarea-cache/chpphekfimlabghbdankokcohcmnbmab)
+* Chrome Version: [Chrome Web Store](https://chromewebstore.google.com/detail/textarea-cache/chpphekfimlabghbdankokcohcmnbmab) , [Beta Release](https://chromewebstore.google.com/detail/textarea-cache/ghfigefjenifdcagfbbliphcfakkdaio)
 
 ## Change Log and Previous Versions
 
@@ -26,7 +26,8 @@ Now You could see them at [AMO/textarea-cache/versions/](https://addons.mozilla.
 build:
 
 ```sh
-npm i web-ext -g; npm run build
+npm i web-ext -g
+npm run build
 ```
 
 build chromium:
